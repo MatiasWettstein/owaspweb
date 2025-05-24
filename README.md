@@ -2,6 +2,9 @@
 
 Este proyecto es un sitio web educativo enfocado en la sensibilización y formación sobre seguridad en el desarrollo de software. Presenta información detallada sobre las principales vulnerabilidades según OWASP (Open Web Application Security Project) para diferentes dominios como APIs, Aplicaciones Web, Dispositivos Móviles y la Nube. Además, incluye una sección dedicada a la Criptografía Aplicada y una recopilación de Herramientas y Recursos útiles para desarrolladores.
 
+## 📖 Accede al sitio web 
+Ingresa a [owasp.pages.dev](https://owasp.pages.dev/) para explorar el contenido.
+
 ## ✨ Características Principales
 
 *   **Contenido Educativo Detallado:** Explicaciones claras y ejemplos prácticos de las vulnerabilidades más comunes.
