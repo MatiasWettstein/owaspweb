@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "npx wrangler pages deploy ./out"
+    "deploy": "next build && npx wrangler pages deploy ./out"
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",
