@@ -6,7 +6,7 @@ import {
   ArrowRight,
   Key,
   Cloud,
-  PenToolIcon as Tool,
+  PenToolIcon,
   Smartphone,
   Globe,
   Laptop,
@@ -65,7 +65,7 @@ export default function Home() {
     {
       title: "Herramientas y recursos ",
       description: "Recopilación de herramientas y recursos útiles para la seguridad en el desarrollo.",
-      icon: <Tool className="h-8 w-8 text-amber-500 mb-4" />,
+      icon: <PenToolIcon className="h-8 w-8 text-amber-500 mb-4" />,
       href: "/recursos",
       color: "border-amber-500 hover:bg-amber-500/10",
       comingSoon: false,
