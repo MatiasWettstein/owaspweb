@@ -31,7 +31,7 @@ Este proyecto es un sitio web educativo enfocado en la sensibilización y formac
 El proyecto sigue una estructura organizada para facilitar el desarrollo y mantenimiento:
 
 ```
-owasp-api-top10/
+./
 ├── app/                      # Directorio principal de la aplicación Next.js (App Router)
 │   ├── globals.css           # Estilos globales
 │   ├── layout.tsx            # Layout principal de la aplicación
@@ -79,12 +79,11 @@ owasp-api-top10/
 │   ├── criptografia.ts
 │   ├── movil.ts
 │   └── web.ts
-├── public/                   # Archivos estáticos (imágenes, fuentes, etc.) - No presente en la estructura actual, pero es estándar en Next.js
 ├── LICENSE                   # Archivo de licencia del proyecto
 ├── next-env.d.ts             # Definiciones de tipos para Next.js
 ├── next.config.mjs           # Configuración de Next.js
 ├── package.json              # Metadatos del proyecto y dependencias
-├── pnpm-lock.yaml            # Lockfile de PNPM (gestor de paquetes)
+├── package-lock.yaml         # Lockfile de PNPM (gestor de paquetes)
 ├── postcss.config.mjs        # Configuración de PostCSS
 ├── README.md                 # Este archivo
 ├── tailwind.config.ts        # Configuración de Tailwind CSS
